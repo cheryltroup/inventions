@@ -1,0 +1,8 @@
+GetNewFactIntent an invention fact
+GetNewFactIntent a new invention fact
+
+GetNewFactIntent tell me an invention fact
+GetNewFactIntent tell me a new invention fact
+
+GetNewFactIntent give me an invention fact
+GetNewFactIntent give me a new invention fact
