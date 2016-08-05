@@ -32,7 +32,7 @@ Release Date: June 28, 2016 @ 06:16:19
 
 In-App Purchasing: No
 
-[Alexa Amazon Skill - Invention Facts](http://alexa.amazon.com/spa/index.html#skills/amzn1.echo-sdk-ams.app.cf87cc59-24b6-4f21-9d9d-ef8ae09442b)
+[Alexa Amazon Skill - Invention Facts](http://alexa.amazon.com/spa/index.html#skills/dp/B01HMZG5RC/?ref=skill_dsk_skb_sr_0)
 
 
 
