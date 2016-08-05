@@ -1,6 +1,4 @@
- 
-
-/**
+ /**
  * App ID for Invention fact skill
  */
 var APP_ID = "amzn1.echo-sdk-ams.app.cf87cc59-24b6-4f21-9d9d-ef8ae09442ba"; 
