@@ -34,8 +34,3 @@ In-App Purchasing: No
 
 [Alexa Amazon Skill - Invention Facts](http://alexa.amazon.com/spa/index.html#skills/dp/B01HMZG5RC/?ref=skill_dsk_skb_sr_0)
 
-
-
-
-
-]
